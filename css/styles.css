@@ -1,3 +1,9 @@
 body {
-    background-color:blue;
+    background-color:lightgray;
+    text-align: center;
+    border-style: solid;
+}
+
+ul {
+    display: inline-block;
 }
